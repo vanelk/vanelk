@@ -22,9 +22,9 @@
 - 💬 Ask me anythings about Javascript or any tech related stuff.
 - 😄 Pronouns: He/His
 
-[![Twitter: vanelk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/s_vanelk)
-[![Linkedin: vanelk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanelk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub vanelk](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/vanelk)
+[![Twitter: vanelk](https://img.shields.io/twitter/follow/vanelk?style=social)](https://twitter.com/s_vanelk)
+[![Linkedin: vanelk](https://img.shields.io/badge/-vanelk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanelk/)](https://www.linkedin.com/in/imthepk/)
+[![GitHub vanelk](https://img.shields.io/github/followers/vanelk?label=follow&style=social)](https://github.com/vanelk)
 [![website](https://img.shields.io/badge/PortfolioWebsite-vanelk.dev-2648ff?style=flat-square&logo=google-chrome)](https://vanelk.dev/)
 
 
