@@ -12,9 +12,6 @@
   <img align="left" alt="Vanel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br/>
-<br/>
-
 - 🔭 I’m currently working on webrdp.
 - 🌱 I’m currently learning Dart.
 - 💬 Ask me anythings about Javascript or any tech related stuff.
