@@ -1,4 +1,4 @@
-## Hola, I'm [Vanel Kamdoum](https://vanelk.dev) 👋
+## Hi, I'm [Vanel Kamdoum](https://vanelk.dev) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanelk&label=Views&color=blue&style=plastic" alt="vanek" /> </p>
 
