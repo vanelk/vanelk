@@ -5,9 +5,6 @@
 <a href="https://twitter.com/s_vanelk">
   <img align="left" alt="Vanel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/vanelk">
-  <img align="left" alt="Vanel's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <a href="https://github.com/vanelk">
   <img align="left" alt="Vanel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -24,7 +21,6 @@
 - 😄 Pronouns: He/His
 
 [![Twitter: vanelk](https://img.shields.io/twitter/follow/vanelk?style=social)](https://twitter.com/s_vanelk)
-[![Linkedin: vanelk](https://img.shields.io/badge/-vanelk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanelk/)](https://www.linkedin.com/in/imthepk/)
 [![GitHub vanelk](https://img.shields.io/github/followers/vanelk?label=follow&style=social)](https://github.com/vanelk)
 [![website](https://img.shields.io/badge/PortfolioWebsite-vanelk.dev-2648ff?style=flat-square&logo=google-chrome)](https://vanelk.dev/)
 
