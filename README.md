@@ -5,7 +5,7 @@
 <a href="https://twitter.com/s_vanelk">
   <img align="left" alt="Vanel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/imthepk">
+<a href="https://linkedin.com/in/vanelk">
   <img align="left" alt="Vanel's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/vanelk">
@@ -22,9 +22,9 @@
 - 💬 Ask me anythings about Javascript or any tech related stuff.
 - 😄 Pronouns: He/His
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
+[![Twitter: vanelk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/s_vanelk)
+[![Linkedin: vanelk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanelk/)](https://www.linkedin.com/in/imthepk/)
+[![GitHub vanelk](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/vanelk)
 [![website](https://img.shields.io/badge/PortfolioWebsite-vanelk.dev-2648ff?style=flat-square&logo=google-chrome)](https://vanelk.dev/)
 
 
