@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
 [![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-vanelk.dev-2648ff?style=flat-square&logo=google-chrome)](https://vanelk.dev/)
 
 
 **Languages and Tools:**  
@@ -43,16 +43,12 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>   
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/vanelk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanelk&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanelk&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+<a href="https://github.com/vanelk">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanelk&show_icons=true&theme=dark&line_height=27" alt="vanelk's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanelk&repo=FlutterExampleApps&theme=dark" />
-
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanelk&repo=VelocityX&theme=dark" />
+<a href="https://github.com/vanelk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanelk&repo=pxShader&theme=dark" />
 </a>
