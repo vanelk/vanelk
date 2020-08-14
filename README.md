@@ -17,12 +17,10 @@
 
 <br/>
 <br/>
+
 - 🔭 I’m currently working on webrdp.
-
 - 🌱 I’m currently learning Dart.
-
 - 💬 Ask me anythings about Javascript or any tech related stuff.
-
 - 😄 Pronouns: He/His
 
 [![Twitter: vanelk](https://img.shields.io/twitter/follow/vanelk?style=social)](https://twitter.com/s_vanelk)
